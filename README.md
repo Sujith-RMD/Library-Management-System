@@ -1,0 +1,2 @@
+# Library-Management-System
+Developed a menu-driven Library Management System in C supporting Admin and Student roles with authentication. Implemented book inventory management, student registration, book issuing and returning workflows using structures, arrays, and modular functions. Focused on clean logic, input validation, and maintainable code design to simulate real-world library operations in a console-based environment.
